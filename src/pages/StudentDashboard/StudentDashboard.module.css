@@ -1,0 +1,10 @@
+.btn {
+    background-color: #43c0f6;
+    color: white;
+    font-weight: 700;
+}
+
+.active {
+    background-color: #b2e4fa;
+    color: grey;
+}
